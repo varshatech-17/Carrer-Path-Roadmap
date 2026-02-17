@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+pdfplumber
+python-dotenv
+httpx
+openai
+groq
+jinja2
